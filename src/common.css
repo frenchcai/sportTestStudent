@@ -1,0 +1,16 @@
+.gradetitle{
+    font-size: 16px;
+    /* color:white; */
+    text-align: center;
+    background-color:#969799;
+   
+}
+
+.gradetitle>.van-field__label{
+    color:white;
+    }
+
+.projectname{
+    background-color:#dadbdd;
+    
+}
